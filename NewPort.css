@@ -1,0 +1,173 @@
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#firstPage{
+  height:782px;
+  width:100%;
+  text-align: center;
+  vertical-align: middle;
+  background-image: url(bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 20%;
+}
+
+h1{
+  font-size: 4.5em;
+  font-weight: 600;
+}
+
+.btn.btn-lg.btn-outline{
+  border-radius: 0;
+  color: #fff;
+  background-color: rgba(0,0,0,0.4)
+}
+
+#secondPage{
+  padding: 5%;
+  text-align: center;
+}
+
+#thirdPage{
+  text-align: center;
+  height: 450px;
+  width: 100%;
+  background-color: #4d80b3;
+  color: white;
+}
+
+.fa.fa-cloud.fa-4x{
+  padding: 20px;
+  border-radius: 100px;
+  border-style: solid;
+  color: #4d80b3;
+  background-color: white;
+}
+
+.fa.fa-safari.fa-4x{
+  padding: 20px;
+  border-radius: 100px;
+  border-style: solid;
+  color: #4d80b3;
+  background-color: white;
+}
+
+.fa.fa-flask.fa-4x{
+  padding: 20px;
+  border-radius: 100px;
+  border-style: solid;
+  color: #4d80b3;
+  background-color: white;
+}
+
+.fa.fa-shield.fa-4x{
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+  border-radius: 100%;
+  border-style: solid;
+  color: #4d80b3;
+  background-color: white;
+}
+
+.btn.btn-lg.btn-out{
+  border-radius: 0;
+  color: #4d4d4d;
+  background-color: #fff;
+}
+
+h5{
+  font-size: 1.15em;
+}
+
+#fourthPage{
+  height: 500px;
+  background-image: url(callout.jpg);
+}
+
+#fourthPage>h1{
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  padding: 15%;
+
+}
+
+#fifthPage{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#fifthPage>.container-fluid>h2{
+  border-bottom: 1px solid #666666;
+  display: inline-block;
+  padding-bottom: 30px;
+  margin-bottom: 35px;
+}
+
+#fifthPage>.container-fluid>.col-lg-6{
+  margin-bottom: 30px;
+
+}
+#fifthPage>.container-fluid>.col-lg-6>a{
+  height: 333px;
+  width: 458px;
+
+}
+#a,
+#c{
+  padding-left: 0px;
+}
+#b,
+#d{
+  padding-right: 0px;
+}
+
+#sixthPage{
+  height: 300px;
+  background-color: #4d80b3;
+  text-align: center;
+  padding-top: 85px;
+  padding-bottom: 75px;
+}
+
+#sixthPage>h2{
+  color: white;
+  font-size: 1.8em;
+}
+
+.btn.btn-lg.btn-outline{
+  border-radius: 0;
+  color: #4d4d4d;
+  background-color: #fff;
+  margin-top: 9px;
+}
+
+.btn-lg.btn{
+  border-radius: 0;
+  color: #fff;
+  background-color: rgba(0,0,0,0.4);
+  margin-top: 9px;
+}
+
+footer{
+  text-align: center;
+  margin-top: 40px;
+}
+footer>#bottom>h3{
+  font-weight: 700;
+}
+footer>#bottom>p{
+  font-weight: 500;
+}
+.fa.fa-facebook.fa-4x{
+  margin: 35px;
+}
+.fa.fa-twitter.fa-4x{
+  margin: 35px;
+}
+.fa.fa-globe.fa-4x{
+  margin: 35px;
+}
